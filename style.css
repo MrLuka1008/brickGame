@@ -1,0 +1,12 @@
+#root {
+  margin: auto;
+  height: 500px;
+  width: 400px;
+  background: rgb(143, 123, 87);
+}
+
+#mainBrick {
+  width: 50px;
+  height: 15px;
+  background: gold;
+}
